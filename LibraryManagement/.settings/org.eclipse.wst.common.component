@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+            
+    
+    <wb-module deploy-name="LibraryManagement">
+                        
+        
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/main/java"/>
+                
+        <wb-resource deploy-path="/" source-path="/webapp"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/webapp/WEB-INF/lib"/>
+                        
+        
+        <property name="context-root" value="LibraryManagement"/>
+                        
+        
+        <property name="java-output-path" value="/LibraryManagement/build/classes"/>
+                    
+    
+    </wb-module>
+        
+
+</project-modules>
